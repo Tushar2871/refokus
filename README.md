@@ -102,13 +102,6 @@ yarn build
 - [ ] Add more case studies
 - [ ] Implement dark mode
 
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-[Your Name]
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
 
 ## 🙏 Acknowledgments
 - Inspired by Refokus design agency
